@@ -1,6 +1,6 @@
 asn1crypto==0.24.0
 awsebcli==3.14.8
-Babel==2.6.0
+Babel==2.9.1
 botocore==1.12.74
 braintree==3.50.0
 cement==2.8.2
